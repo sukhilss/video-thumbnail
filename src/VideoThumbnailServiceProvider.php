@@ -1,0 +1,34 @@
+<?php
+
+namespace sukhilss\VideoThumbnail;
+
+use Illuminate\Support\ServiceProvider;
+
+/**
+ * @author     sukhilss <emailtosukhil@gmail.com>
+ * @package    Video Thumbnail
+ * @version    1.0.0
+ */
+class VideoThumbnailServiceProvider extends ServiceProvider {
+
+    /**
+     * Bootstrap the application services.
+     *
+     * @return void
+     */
+    public function boot() {
+        //
+    }
+
+    /**
+     * Register the application services.
+     *
+     * @return void
+     */
+    public function register() {
+        $this->app['VideoThumbnail'] = $this->app->share(function($app) {
+            return new VideoThumbnail;
+        });
+    }
+
+}
