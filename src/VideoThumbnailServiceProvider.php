@@ -1,6 +1,6 @@
 <?php
 
-namespace sukhilss\VideoThumbnail;
+namespace Sukhilss\VideoThumbnail;
 
 use Illuminate\Support\ServiceProvider;
 
