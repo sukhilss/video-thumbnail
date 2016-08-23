@@ -1,0 +1,28 @@
+{
+    "name": "sukhilss/video-thumbnail",
+    "description": "Video thumbnails",
+    "keywords": [
+        "Video Thumbnails"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sukhilss",
+            "email": "emailtosukhil@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "~0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sukhilss\\VideoThumbnail\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
+
+
+
+
