@@ -1,6 +1,6 @@
 <?php
 
-namespace Sukhilss\VideoThumbnail;
+namespace Sukhilss\VideoThumbnail\Facade;
 
 use Illuminate\Support\Facades\Facade;
 
