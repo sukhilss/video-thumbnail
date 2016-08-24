@@ -3,7 +3,7 @@
     "description": "Video thumbnails",
     "version": "1.0.0",
     "keywords": [
-        "Video Thumbnails"
+        "Video Thumbnails", "Laravel video thumbnail"
     ],
     "license": "MIT",
     "authors": [
