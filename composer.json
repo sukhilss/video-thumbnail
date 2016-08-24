@@ -1,13 +1,14 @@
 {
     "name": "sukhilss/video-thumbnail",
     "description": "Video thumbnails",
+    "version": "1.0.0",
     "keywords": [
         "Video Thumbnails"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "sukhilss",
+            "name": "Sukhil S S",
             "email": "emailtosukhil@gmail.com"
         }
     ],
