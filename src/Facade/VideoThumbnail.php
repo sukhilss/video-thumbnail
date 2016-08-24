@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Facade;
  * @package    Video Thumbnail
  * @version    1.0.0
  */
-class Thumbnail extends Facade {
+class VideoThumbnail extends Facade {
 
     protected static function getFacadeAccessor() {
         return 'VideoThumbnail';
