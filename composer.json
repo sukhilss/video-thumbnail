@@ -1,7 +1,6 @@
 {
     "name": "sukhilss/video-thumbnail",
     "description": "Video thumbnails",
-    "version": "1.0.0",
     "keywords": [
         "Video Thumbnails", "Laravel video thumbnail"
     ],
